@@ -1,0 +1,13 @@
+ git config --global user.name "Abhignya18"
+$ git config --global user.email "abhignyadevarashetty@gmail.com"
+ git clone https://github.com/Abhignya18/jenkins
+ cd jenkins
+ls -al
+ git status
+git show
+touch file1
+ git add file1
+git commit -m "Hi"
+ git push
+ git pull
+git commit
